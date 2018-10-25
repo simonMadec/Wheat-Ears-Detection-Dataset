@@ -14,7 +14,7 @@ The Wheat-Ears-Dection-Dataset (WEDD) is a dataset is a image dataset designed f
 
 ## Highlights
 - 236 high resolution images images (6000*4000)
-- Wheat ears annotated with a bounding boxe
+- Wheat ears annotated with a bounding box
 - 30729 ears identified
 - Spatial resolution (GSD) of 0.13mm/pixel
 - Two images for each microplots 
