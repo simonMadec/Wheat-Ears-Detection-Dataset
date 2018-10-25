@@ -29,9 +29,9 @@ Please download replicate information along with images used for training and te
 ## Results
 Below we present results.
 
-Method                | Source| AP | rRMSE | R² 
----                   | ---   | ---                     | ---             | ---     
-Faster-RCNN [1]            |[2]| 0.85              | 5.3%|0.91     
+Method               | Date | Source| AP | rRMSE | R² 
+---                  | ---  | ---   | ---                     | ---             | ---     
+Faster-RCNN [1]       |   21/10/2018  |[2]| 0.85              | 5.3%|0.91     
 
 ### Annotation Tool
 The LabelIMG tool were used, please refer to [this repository](https://github.com/tzutalin/labelImg).
