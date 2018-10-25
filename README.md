@@ -1,4 +1,4 @@
-# Wheat-Ears-Dection-Dataset
+# Wheat-Ears-Detection-Dataset
 Dataset from the Ear density estimation from high resolution RGB imagery using deep learning technique paper
 
 [Simon Madec], [Frederic Baret], [Benoit de Solan], [Shouyang Liu]
