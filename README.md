@@ -21,6 +21,10 @@ The Wheat-Ears-Dection-Dataset (WEDD) is a dataset is a image dataset designed f
 - 20 contrasted genotype with 6 replicated growth in two environment 
 
 ## Research Paper
+To cite the paper :
+
+Madec, S., Jin, X., Lu, H., De Solan, B., Liu, S., Duyme, F., et al. (2019). Ear density estimation from high resolution RGB imagery using deep learning technique. Agric. For. Meteorol. 264, 225–234. doi:10.1016/j.agrformet.2018.10.013.
+
 
 ## Downloads
 Dataset avalaible [here](https://zenodo.org/record/1471626#.W9H_XFUzZjU)
