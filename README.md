@@ -1,3 +1,9 @@
+## Note / News
+For people interested about this work/dataset I recommand to check the Global Wheat Dataset : A more large and diverse dataset for wheat head detection 
+http://www.global-wheat.com/
+https://zenodo.org/record/5092309#.YaPEh9DMJPY
+The Wheat Ears Dection Dataset has been integrated in  Global Wheat Dataset
+
 # Wheat-Ears-Detection-Dataset
 Dataset from the Ear density estimation from high resolution RGB imagery using deep learning technique paper
 
